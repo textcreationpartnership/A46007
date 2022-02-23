@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the commissinors [sic] apointed for hearing and determining the claims of trasplanted [sic] persons in the province of Connaught and county of Clare</title>
+            <author>Ireland.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46007</idno>
+            <idno type="STC">Wing I340</idno>
+            <idno type="STC">ESTC R36823</idno>
+            <idno type="EEBO-CITATION">16140155</idno>
+            <idno type="OCLC">ocm 16140155</idno>
+            <idno type="VID">104807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46007)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1594:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the commissinors [sic] apointed for hearing and determining the claims of trasplanted [sic] persons in the province of Connaught and county of Clare</title>
+                  <author>Ireland.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke ... and are to be sold by Joseph Wilde ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land titles --  Registration and transfer --  Ireland.</term>
+               <term>Priorities of claims and liens --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104807:1"/>
+            <!-- PDF PAGE 34 -->
+            <head>
+               <figure/> By THE COMMISSINORS apointed for hearing and Determining the CLAIMES of Traſplanted perſons, in the Province of <hi>CONNAUGHT,</hi> and County of <hi>CLARE.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by a Proclamation, bearing date the <hi>26th</hi> day of this Inſtant <hi>June,</hi> publiſhed by the Lord Lieutenant and Council of this King<g ref="char:EOLhyphen"/>dom. All perſons concerned in any of the tranſ<g ref="char:EOLhyphen"/>planted Lands in the ſaid Proclamation mention<g ref="char:EOLhyphen"/>ed, are required to put in their Claims before us before the <hi>21th.</hi> day of <hi>Auguſt</hi> next, &amp; that they do with all convenient ſpeed apply themſelves to us for the hearing &amp; determining of the ſaid Claims and proſecute the ſame with Effect, in ſuch maner and at ſuch time as we ſhould direct. And whereas we Iudg it very conducible to the due execution of the great truſt repoſed in us for the ſettling the ſaid Intereſt according to our ſaid Commiſſion, that a fitting and regular courſe be obſerved in thee form<g ref="char:EOLhyphen"/>ing of Claims which ſhall be exhibited before us. And to the end that all Perſons who are concerned in the putting in of Claims before us their council Attorneys, Sollicitorsd &amp; Agents, may have timely notice of what is expected from them in this behalf, We do declare and publiſh, that the Claims which are or ſhall be exhibited to be proceeded upon by us ſhall be in ſuch manner &amp; form as is herein after by us directed, which we do require to be obſerved and performed accordingly, that is to ſay; that ſuch of the ſaid tranſplanted Perſons as do claim Lands or Deficiencies in the Province of <hi>Connaught,</hi> or County of <hi>Clare,</hi> their heires or aſſignes, and every of them, do in their reſpective Claims under their hands and Seals, or under the hands and Seals of their Agent or Agents lawfully autho<g ref="char:EOLhyphen"/>rized to be exhibited before us (within the ſaid prefixed time,) ſet forth the ſubſtance of the reſpective decrees of the late pretended Court of Claims ſitting at <hi>Athlone,</hi> made on their behalfes, and ſuch as had Lands ſet out, do likewiſe ſet forth the ſubſtance of the final ſettlement of the late pre<g ref="char:EOLhyphen"/>tended Commiſſioners at <hi>Loghreah</hi> thereupon, together with a particular of the Lands and Tenements in lieu and right whereof the ſaid Lands were ſet out unto them, or to thoſe under whom they derive their
+<pb facs="tcp:104807:2"/>
+               <!-- PDF PAGE 35 -->
+Titles, as alſo a particular of the Lands and Tenements, ſo to them re<g ref="char:EOLhyphen"/>ſpectively ſet out, by apt denominations and deſcriptions, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the content and number of Acres, with a diſtinction how many were <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> out for profita<g ref="char:EOLhyphen"/>ble, and how many for unprofitable in each Town, Land, Village, Bal<g ref="char:EOLhyphen"/>lyboe, or quarter of Land, and alſo what eſtates the perſons ſo tranſplan<g ref="char:EOLhyphen"/>ted reſpectively had in the Lands from which they were removed, whe<g ref="char:EOLhyphen"/>ther in fee ſimple or for any leſſer eſtate, and how. And that ſuch per<g ref="char:EOLhyphen"/>ſons as claim any Lands whereof they are not in poſſeſſion, do alſo ſet forth in their claim, by whom the ſaid Land is detained or Evicted from them, and by what Title or Pretence of Title &amp; that ſuch as claim by purchas ſet forth their meaſne conveyances and ſuch as claim as Heire; ſhew how. And we do hereby further declare that for our more orderly proceedings upon Claims brought before us, We have nominated &amp; appointed certain perſons uiz. <hi>Robert Longeville, Edward Moſley, Richard Brooking, James Clarke, John Moland, Peter Ormsby, Hugh Kelly, Charles Monk, Henry Daniell,</hi> and <hi>Joſeph Barry, Gent.</hi> Who, and no other, without our ſpeciall order to the contrary, ſhall be Attorneys in the Court for adjudication of Claims, to be held before us, and that we have agreed, and ordered, that every perſon which ſhall bring in any Claim before us, ſhall elect or retain one of the ſaid perſons to be his Attorney in the ſaid cauſe, and that the name of the ſaid perſon ſo Elected be endorſed upon the ſaid Claim, as his Attorney, and that every perſon which ſhall put in an Anſwer before us unto any Claim or if more perſons than one ſhall put in a joynt Anſwer, that he or they ſhall likewiſe Elect and retain one of the ſaid perſons to be his or their Attorney in the ſaid Cauſe &amp; that the name of the ſaid perſons ſo elected be endorſed upon the ſaid Anſwere as his or their Attorney.</p>
+            <p>And to prevent the unneceſſary attendance of Clayments and others, We do hereby ſignify to all perſons concerned, that we will firſt proceed to the adjudication of the Claims of all perſons Claiming, as tranſplanted perſons in the County of <hi>Clare,</hi> &amp; in the reſpective Baronies thereof, &amp; that therein we ſhall begin firſt with the Baronies of <hi>Tullagh</hi> and <hi>Bunratty,</hi> immediatly a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter the ſaid <hi>21th</hi> day of <hi>Auguſt,</hi> and that we ſhall from time to time ſend forth publick notice of the reſpective times when we ſhall proceed to the heareing of the Claims in the other Baronies of the ſaid County and in the other Counties in the Province of <hi>Connaught</hi>
+            </p>
+            <p>And if any perſon Claime Lands in ſeverall Baronies or Counties ſet forth in ſatiſfaction of on decree, that we ſhall proceed to the adjudi<g ref="char:EOLhyphen"/>cation of all the ſaid Claims, and ſettlement of the ſaid Lands, or of ſo much thereof as ſhall be contained in on Decree in that Barony and County wherin he ſhall firſt come to be heard before us. But if the ſame be in ſatiſfaction of ſeverall Decrees, that then the ſame ſhall be heard and de<g ref="char:EOLhyphen"/>termined in the reſpective Baronies and Counties, wherein the ſaid reſpec<g ref="char:EOLhyphen"/>tive Decrees ſhall be ſatiſfied.</p>
+            <closer>
+               <dateline>Given at the <hi>Kings Inns Dublin</hi> 
+                  <date>the xxxth day of <hi>Iune</hi> in the Eight and Twentieth year of his Majeſties Reign.</date>
+               </dateline> 
+               <signed>Charles Meredith. Ro: Booth. Tho: Ratcliffe. He: Hene. Rich: Reynell.</signed>
+               <lb/>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Benjamin Tooke,</hi> Printer to the Kings Moſt Exellent Majeſtie; and are to be ſold by <hi>Joſeph Wilde</hi> Booke ſeller in <hi>Caſtleſtreet.</hi> 1676.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
